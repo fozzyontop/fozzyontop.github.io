@@ -28,8 +28,8 @@ video {
 
 ::-webkit-scrollbar-track {
     -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.1);
-    background-color: #06132c;
-    border-radius: 10px;
+    background-color: #000;
+    border-radius: 15px;
 }
 
 ::-webkit-scrollbar-thumb {
