@@ -486,23 +486,26 @@ span {
     flex-direction: column;
     justify-content: space-between;
     width: 32%;
-    min-height: 400px;
+    min-height: 300px;
     padding: 35px 25px 15px 25px;
     border-radius: 10px;
-    border: 1px solid #ffffff;
+    border: 3px solid #ffffff;
     background-image: linear-gradient(to top, rgba(24, 108, 179, .6), rgba(0, 0, 0, .3));
-    margin-right: 20px;
+    margin-right: 0px;
     /*box-shadow: 0 0 70px 20px rgba(0, 0, 0, 0.1);*/
+
 }
 .buy-item:last-child {
-    margin-right: 0;
+    margin-left: 388px;
+    margin-top: 20px;
 }
 
 .buy-item h1 {
     text-align: center;
     text-transform: uppercase;
     font-size: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+    margin-right: 20px;
 }
 
 .buy-item .list-func p {
